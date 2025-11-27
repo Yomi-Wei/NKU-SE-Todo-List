@@ -85,7 +85,7 @@ const handleClearAll = () => {
 
 .list-container {
   margin-bottom: 20px;
-  min-height: 50px; /* 保持一点高度，防止没有数据时太扁 */
+  min-height: 50px;
 }
 
 .list-item {
